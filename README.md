@@ -1,3 +1,4 @@
 ````
-elixir hello.exs
+% elixir hello.exs 
+hello world
 ````
