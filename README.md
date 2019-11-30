@@ -1,1 +1,3 @@
-# hello.elixir
+````
+elixir hello.exs
+````
